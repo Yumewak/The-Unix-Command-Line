@@ -36,5 +36,8 @@ Left and Right arrows or press alt and use mouse click: Edit the command at some
 
 control + A: Go to the beginning of the line
 control + E: Go to the end of the line
-control + V: clear your entire line
+control + V: Clear your entire line
+control + C: Cancel the routine, like escape
+control + L: Clear the screen
+Type exit: Close the terminal window
 ```
